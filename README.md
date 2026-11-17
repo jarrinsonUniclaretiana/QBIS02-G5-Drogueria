@@ -1,4 +1,5 @@
 # QBIS02-G5-Drogueria
 
-
-Lina Jhajaira Lemos Moreno  utilidades.py
+|          Integrante        |      Módulo   |
+|----------------------------|---------------|
+| Lina JhajairaLemos Moreno  | Utilidades.py |
