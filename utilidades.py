@@ -29,8 +29,8 @@ def validar_unidades(unidades, permitir_cero=False):
     """
     try:
         unidades = int(unidades)
-        minimo = 0 if permitir_cero else 1
-        if unidades < minimo:
+        cantidad_minima = 0 if permitir_cero else 1
+        if unidades < cantidad_minima:
             return None
         return unidades
     except (ValueError, TypeError):
